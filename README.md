@@ -1,3 +1,2 @@
-Python-with-windows-system using python coding small tools \n
-1.取得本機資訊 Get Windows information
-2.新增-執行-移除 Create-Run-Remove
+Python-with-windows-system using python coding small tools
+
